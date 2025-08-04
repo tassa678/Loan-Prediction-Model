@@ -21,3 +21,5 @@ This project builds a supervised machine learning model to predict whether a loa
 - How to preprocess mixed data types (categorical + numerical)
 - Importance of handling class imbalance in binary classification
 - Interpreting model performance with confusion matrix and F1-score
+
+Source: Kaggle datasets
